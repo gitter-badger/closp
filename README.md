@@ -1,5 +1,7 @@
 # closp 
 
+[![Join the chat at https://gitter.im/sveri/closp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveri/closp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Build Status](http://sveri.de:8082/buildStatus/icon?job=closp)
 
 A Leiningen template combining luminus, chestnut plus some goodies.
